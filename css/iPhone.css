@@ -1,0 +1,91 @@
+body{background: #F2F2F2;}
+h2{font-size: 40px;font-weight: bold;}
+h1{font-size: 20px};
+.iphone-main{width: 90%;}
+.pd20{padding: 20px;}
+.f60{font-size: 60px}
+.bgcolor{
+	background: #FFFFFF;
+	padding: 0;
+	}
+.bg{
+	width: 100%;
+	box-sizing: border-box;
+	border-top:15px solid #111111;
+	}
+.Mac-main .row{margin-right: 0px;}
+
+.iPhone-xs-logo,.iPhone-xr-logo{
+	width: 100%; 
+	height:30px;
+	margin-top:20px;
+	}
+.iPhone-text a:hover{
+	text-decoration: none;
+	}
+.iPhone-text h1{padding: 15px;}
+.iphone-one{
+	display: block;
+	height: 500px;
+	background:url(../img/compare_large.jpg) no-repeat; 
+	}
+.iphone-two{ 
+	height: 580px;
+	background:url(../img/iphone-upgrade_large.jpg) no-repeat;
+	box-sizing: border-box;
+	border-right: 5px solid #F2F2F2; 
+	}
+.iphone-three{
+	height: 580px; 
+	background:url(../img/apple-giveback_large.jpg) no-repeat; 
+	box-sizing: border-box;
+	border-left: 5px solid #F2F2F2;
+	}
+.iphone-air{
+	height: 580px; 
+	background:url(../img/airpods_bgg.jpg) no-repeat; 
+	box-sizing: border-box;
+	border-right: 5px solid #F2F2F2;
+}
+.iphone-pj{
+	height: 580px; 
+	background:url(../img/accessories_bgg.jpg) no-repeat; 
+	box-sizing: border-box;
+	border-left: 5px solid #F2F2F2;
+}
+.iphone-ios{
+	height: 580px; 
+	background:url(../img/ios12_bg.jpg) no-repeat; 
+	display: block;;
+}
+.iphone-zq{
+	height: 580px; 
+	background:url(../img/ar_bg.jpg) no-repeat; 
+	box-sizing: border-box;
+	border-right: 5px solid #F2F2F2;
+}
+.iphone-ic{
+	height: 580px; 
+	background:url(../img/icloud_bgg.jpg) no-repeat; 
+	box-sizing: border-box;
+	border-left: 5px solid #F2F2F2;
+}
+.iphone-pay{
+	height: 580px; 
+	background:url(../img/apple-pay1.jpg) no-repeat; 
+	box-sizing: border-box;
+	border-right: 5px solid #F2F2F2;
+}
+.iphone-gh{
+	height: 580px; 
+	background:url(../img/why_switchbg.jpg) no-repeat; 
+	box-sizing: border-box;
+	border-left: 5px solid #F2F2F2;
+}
+
+.Mac-bg{
+	width:100%;
+	background-size:100% 100%; 
+	background-position:center center;
+	}
+

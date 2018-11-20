@@ -1,0 +1,84 @@
+.white-bcolor{
+	background-color: #FAFAFA;
+	}
+
+
+.Mac-main .container-fluid{
+	margin: 0 auto;
+	padding: 0;
+	}
+.Mac-main .container{
+	width:90%;
+	}
+.Mac-text{
+	margin: 0 auto;
+	padding: 0;
+	}
+.Mac-text h1{
+	font-size:80px;
+	color: #fff;
+	font-weight: 600;
+	}
+.Mac-text h2{
+	font-size: 40px;
+	color: #fff;
+	font-weight: 600; 
+	}
+.mac-education .Mac-text h2{
+	font-size: 40px;
+	color: #000000;
+	font-weight: 600;
+	padding-bottom: 10px;
+	}
+.mac-education .Mac-text h4{
+	padding: 5px;
+	}
+.Mac-iMac>.Mac-text h1,.Mac-iMac>.Mac-text h2,.Mac-Macbook2>.Mac-text h1,.Mac-Macbook2>.Mac-text h2,
+.Mac-Compare>.Mac-text h1,.Mac-Compare>.Mac-text h2,.Mac-Business>.Mac-text h2,.Mac-Business>.Mac-text h4
+{color: #000000;}
+
+.Mac-Macbook{
+	height:600px;
+	padding-top:60px;
+	background: url(../img/macbook.jpg) no-repeat;
+	}
+.Mac-iMacpro{
+	height:800px;
+	background: url(../img/imac_pro_large.jpg) no-repeat;
+	}
+.Mac-iMac{
+	height:900px;
+	background: url(../img/imac_large.jpg) no-repeat;
+	}
+.Mac-Macbook2{
+	height:550px;
+	background: url(../img/macbook_large.jpg) no-repeat;
+	}
+.Mac-Compare{
+	height:600px;
+	background: url(../img/mac_compare.jpg) no-repeat;
+	}
+.macos{
+	height:500px;
+	background:url(../img/mojave_large.jpg) no-repeat;
+	}
+.mac-education1{
+	height: 500px;
+	background: url(../img/education_large.jpg) no-repeat;
+	}
+.mac-education2{
+	height: 500px;
+	background: url(../img/higher_education_large.jpg) no-repeat;
+	}
+.Mac-Business-bg{
+	display: block;
+	height: 500px;
+	background: url(../img/business_large.jpg) no-repeat;
+	}
+
+.Mac-bg{
+	width:100%;
+	margin-top:30px;
+	background-size:100% 100%; 
+	background-position:center center;
+	}
